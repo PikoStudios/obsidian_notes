@@ -1,5 +1,6 @@
 ## Input.h
 **Description**: Input functions and enums
+**Tags**: #docs #muzzle #api
 
 ### Functions
 ***

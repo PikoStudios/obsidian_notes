@@ -1,5 +1,6 @@
 ## Muzzle.h
 **Description**: Main Header File
+**Tags**: #docs #muzzle #api
 
 ### Functions
 ***

@@ -1,5 +1,6 @@
 ## Drawing.h
 **Description**: Main Drawing Functions
+**Tags**: #docs #muzzle #api
 
 ### Functions
 ***

@@ -1,5 +1,6 @@
 ## Applet.h
 **Description**: Including the initialization functions and Applet type
+**Tags**: #docs #muzzle #api
 
 ### Functions
 ***
