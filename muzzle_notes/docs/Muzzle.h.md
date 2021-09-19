@@ -24,7 +24,7 @@
 
 > core/vector.h: **Muzzle API**
 
-[View docs here](core/vector.h)
+[View docs here](vector.h.md)
 
 > core/Drawing.h: **Muzzle API**
 
