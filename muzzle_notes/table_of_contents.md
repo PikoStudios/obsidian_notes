@@ -7,6 +7,7 @@ Feel free to add to this!
 [[SOCIALS]]
 [[opengl3.3_backend]]
 [[1.audio]]
+[[examples/examples.md]]
 
 ### Templates
 ***
